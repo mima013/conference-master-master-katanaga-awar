@@ -307,6 +307,7 @@ video
  
     display: flex;  
     flex: 1; /* Les éléments enfants se partageront l'espace disponible */  
+    margin: 0 auto;
 
 }
 .site-branding .logo {
