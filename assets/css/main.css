@@ -18,6 +18,7 @@ body {
   line-height: 1.6;
   position: relative;
   -webkit-font-smoothing: antialiased;
+  margin: 0 auto;
 }
 
 a {
