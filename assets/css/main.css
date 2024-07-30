@@ -301,6 +301,13 @@ ul li {
   margin-top: 0;
   margin-left: 10px;
 }
+video
+{
+ 
+    display: flex;  
+    flex: 1; /* Les éléments enfants se partageront l'espace disponible */  
+
+}
 .site-branding .logo {
   color: #fff;
   font-size: 14px;
