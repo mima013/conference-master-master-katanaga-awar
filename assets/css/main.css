@@ -325,17 +325,7 @@ ul li {
   background: url(../images/galery/1\ \(7\).jpg) no-repeat center center/cover;
   display: table;
 }
-.background-video {  
-  position: fixed;  
-  top: 50%;  
-  left: 50%;  
-  min-width: 100%;  
-  min-height: 100%;  
-  width: auto;  
-  height: auto;  
-  z-index: -1;  
-  transform: translate(-50%, -50%);  
-}  
+
 
 .site-header::before {
   content: "";
